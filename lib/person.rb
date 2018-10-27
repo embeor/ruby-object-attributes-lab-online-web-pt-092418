@@ -6,4 +6,12 @@ class Person
   def name
     @name
   end
+
+  def breed=(dogbreed)
+    @breed = dogbreed
+  end
+
+  def breed
+    @breed
+  end
 end
