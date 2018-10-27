@@ -11,7 +11,7 @@ class Dog
     @breed = dogbreed
   end
 
-  def name
+  def dogbreed
     @breed
   end
 end
